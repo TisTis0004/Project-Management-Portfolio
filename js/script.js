@@ -2,8 +2,8 @@
 
 // Theme Toggle Functionality
 (function() {
-  // Get theme from localStorage or default to light
-  const currentTheme = localStorage.getItem('theme') || 'light';
+  // Get theme from localStorage or default to dark
+  const currentTheme = localStorage.getItem('theme') || 'dark';
   document.documentElement.setAttribute('data-theme', currentTheme);
 
   // Create theme toggle button

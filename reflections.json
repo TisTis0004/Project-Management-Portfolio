@@ -278,6 +278,91 @@
         "A core model discussed was ShuHaRi: Shu (learning in a structured way by following the rules), Ha (applying that learning within established frameworks), and Ri (using full knowledge to innovate and create something new). I liked this because it frames growth realistically: mastery isn’t instant—it’s a progression from discipline to adaptation to creativity.",
         "The reading also raised a serious point about professionalization, especially because of high failure rates in major projects (particularly in the public sector). A standout idea was that project managers must learn to \"speak truth to power\"—to challenge unrealistic parameters and political pressure instead of silently accepting impossible targets. The career advice was also grounded: strong PM careers are built over time through patience, resilience, and the ability to create order out of chaos."
       ]
+    },
+    {
+      "lectureNumber": 18,
+      "title": "Group Presentations: Change Management and Requirements Engineering",
+      "date": "2025-12-21",
+      "topics": [
+        "Project report structure and presentation organization",
+        "Change and Configuration Management",
+        "Requirements Engineering",
+        "Evaluation criteria and grading guidance"
+      ],
+      "reflection": [
+        "This lecture continued the discussion on project reports and how presentations should be structured and evaluated.",
+        "One group presented Change and Configuration Management and explained how it supports long-term system stability.",
+        "Another group focused on Requirements Engineering and highlighted its importance in preventing project failure.",
+        "Most students attended mainly to understand how the instructor would evaluate and guide project work."
+      ]
+    },
+    {
+      "lectureNumber": 19,
+      "title": "Group Presentations: IT Infrastructure and Governance",
+      "date": "2025-12-23",
+      "topics": [
+        "IT infrastructure concepts",
+        "System deployment environments",
+        "IT governance and compliance",
+        "Organizational rules and standards"
+      ],
+      "reflection": [
+        "This lecture included two group presentations focused on infrastructure and governance topics.",
+        "The first group discussed IT Infrastructure and System Deployment in relation to project environments.",
+        "The second group presented IT Governance and Compliance and explained its role in maintaining control and standards.",
+        "The session helped connect technical systems with organizational rules and oversight."
+      ]
+    },
+    {
+      "lectureNumber": 20,
+      "title": "Group Presentations: SDLC and Waterfall Model",
+      "date": "2025-12-28",
+      "topics": [
+        "System Development Life Cycle (SDLC)",
+        "Development stages in IT projects",
+        "Waterfall model overview",
+        "Interactive learning through Kahoot"
+      ],
+      "reflection": [
+        "This lecture focused on system development approaches through two main presentations.",
+        "The first group explained the SDLC and how projects move through structured development stages.",
+        "The second group introduced the Waterfall model and described its sequential structure.",
+        "The lecture stood out because the group used a Kahoot activity to engage the audience."
+      ]
+    },
+    {
+      "lectureNumber": 21,
+      "title": "Group Presentations: Agile Models and Technology Risk",
+      "date": "2025-12-30",
+      "topics": [
+        "Agile development model",
+        "Iterative delivery and flexibility",
+        "Technology risk management",
+        "Agile project monitoring tools"
+      ],
+      "reflection": [
+        "This lecture included three presentations covering modern and risk-related project management topics.",
+        "The first group presented the Agile model and emphasized flexibility and iteration.",
+        "The second group discussed Technology Risk Management and common challenges in IT projects.",
+        "The third group introduced Agile Project Monitoring Tools and how they support progress tracking."
+      ]
+    },
+    {
+      "lectureNumber": 22,
+      "title": "Final Project Presentations and Course Wrap-Up",
+      "date": "2026-01-04",
+      "topics": [
+        "Final project presentations",
+        "Testing and validation",
+        "Project monitoring tools",
+        "Course feedback and closure"
+      ],
+      "reflection": [
+        "This lecture marked the end of the course with final project presentations.",
+        "Our group presented Testing and Validation and explained its role in ensuring system quality.",
+        "Another group presented Project Monitoring Tools as the final topic.",
+        "The lecture concluded with general feedback and closing remarks about the course."
+      ]
     }
   ]
 }
